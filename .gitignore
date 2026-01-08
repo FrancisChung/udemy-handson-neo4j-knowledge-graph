@@ -1,3 +1,4 @@
 /.idea
 connection.txt
 apikey.txt
+neo4j.env
